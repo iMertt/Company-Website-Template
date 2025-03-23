@@ -47,7 +47,7 @@ This website serves as the digital presence for Fremen Aerospace, featuring:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fremen-aerospace.git
+git clone https://github.com/iMertt/Company-Website-Template.git
 ```
 
 ```bash
