@@ -52,13 +52,11 @@ git clone https://github.com/yourusername/fremen-aerospace.git
 
 ```bash
 2. Navigate to the project directory:
-```
-
-```bash
 cd fremen-aerospace
 ```
-
+```bash
 3. Open index.html in your web browser or use a local server.
+```
 
 ## Browser Support
 
